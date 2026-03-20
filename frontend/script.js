@@ -1,4 +1,4 @@
-const API = "http://localhost:5000";
+const API = "https://project-basic.onrender.com";
 
 async function addUser() {
   const name = document.getElementById("nameInput").value;
